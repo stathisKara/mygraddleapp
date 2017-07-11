@@ -1,0 +1,1 @@
+Basic Spring MVC Application, includes Spring Security, project is developped in Java
